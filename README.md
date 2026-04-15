@@ -29,7 +29,7 @@
 
 ## 📌 Projetos em Destaque
 - [Sistema de Gestão financeiro ](https://github.com/Wendesonsouza/sistema-escolar)  
-- [Raizes-Do-Sertao ](https://github.com/Wendesonsouza/api-produtos)  
+- [Raizes-do-Sertao ](https://github.com/Wendesonsouza/api-produtos)  
 - [Portfólio Pessoal](https://github.com/Wendesonsouza/portfolio)
 
 ---
