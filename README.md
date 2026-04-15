@@ -2,11 +2,11 @@
 
 <table>
 <tr>
-<td width="200">
+<td width="200" align="center">
   <img src="https://avatars.githubusercontent.com/Wendesonsouza" alt="Foto de Perfil" width="180" style="border-radius:50%">
 </td>
 <td>
-  
+
 💻 **Desenvolvedor apaixonado por tecnologia e inovação**  
 🌱 Atualmente aprendendo **Node.js**, **React** e **DevOps**  
 🎯 Objetivo: contribuir para projetos open-source e crescer na área de desenvolvimento  
@@ -41,9 +41,10 @@
 ---
 
 ## 🌐 Conecte-se comigo
-- [LinkedIn](https://www.linkedin.com/in/wendesonsouza)  
-- [Portfólio](https://seuportfolio.com)  
-- [Email](mailto:wendesonsouza@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wendesonsouza)  
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Wendesonsouza)  
+[![Email](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wendesonsouza@gmail.com)  
+[![Portfólio](https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://seuportfolio.com)
 
 ---
 
