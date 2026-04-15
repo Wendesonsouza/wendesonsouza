@@ -28,7 +28,7 @@
 ---
 
 ## 📌 Projetos em Destaque
-- [Sistema de Gestão Escolar](https://github.com/Wendesonsouza/sistema-escolar)  
+- [Sistema de Gestão financeiro ](https://github.com/Wendesonsouza/sistema-escolar)  
 - [API de Produtos](https://github.com/Wendesonsouza/api-produtos)  
 - [Portfólio Pessoal](https://github.com/Wendesonsouza/portfolio)
 
