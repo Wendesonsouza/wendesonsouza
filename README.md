@@ -1,23 +1,50 @@
 # 👋 Olá, eu sou Wendeson Souza
 
-<div align="center">
-  <!-- Foto grande e redonda -->
-  <img src="foto.jpg" alt="Minha Foto" width="250" style="border-radius: 50%;"/>
+<table>
+<tr>
+<td width="200">
+  <img src="https://avatars.githubusercontent.com/Wendesonsouza" alt="Foto de Perfil" width="180" style="border-radius:50%">
+</td>
+<td>
+  
+💻 **Desenvolvedor apaixonado por tecnologia e inovação**  
+🌱 Atualmente aprendendo **Node.js**, **React** e **DevOps**  
+🎯 Objetivo: contribuir para projetos open-source e crescer na área de desenvolvimento  
+📍 Localização: Sergipe, Brasil  
 
-  <h3>Bem-vindo ao meu perfil no GitHub!</h3>
-  <p>
-    🚀 Apaixonado por tecnologia e programação <br>
-    📚 Sempre aprendendo novas ferramentas <br>
-    🌍 Sergipe, Brasil
-  </p>
+</td>
+</tr>
+</table>
 
-  <!-- Botões de contato -->
-  <p>
-    <a href="https://www.linkedin.com/in/seuusuario" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-    </a>
-    <a href="https://github.com/Wendesonsouza" target="_blank">
-      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-    </a>
-  </p>
-</div>
+---
+
+## 🛠️ Tecnologias
+![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/-Python-blue?style=for-the-badge&logo=python&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-green?style=for-the-badge&logo=node.js&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+---
+
+## 📌 Projetos em Destaque
+- [Sistema de Gestão Escolar](https://github.com/Wendesonsouza/sistema-escolar)  
+- [API de Produtos](https://github.com/Wendesonsouza/api-produtos)  
+- [Portfólio Pessoal](https://github.com/Wendesonsouza/portfolio)
+
+---
+
+## 📊 Estatísticas do GitHub
+![Estatísticas](https://github-readme-stats.vercel.app/api?username=Wendesonsouza&show_icons=true&theme=radical)
+![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Wendesonsouza&layout=compact&theme=radical)
+
+---
+
+## 🌐 Conecte-se comigo
+- [LinkedIn](https://www.linkedin.com/in/wendesonsouza)  
+- [Portfólio](https://seuportfolio.com)  
+- [Email](mailto:wendesonsouza@gmail.com)  
+
+---
+
+⭐️ Se gostou do meu perfil, não esqueça de dar uma estrela nos meus repositórios!
