@@ -1,11 +1,10 @@
 # 👋 Olá, eu sou Wendeson Souza
 
-<table>
-<tr>
-<td width="200" align="center">
-  <img src="https://avatars.githubusercontent.com/Wendesonsouza" alt="Foto de Perfil" width="180" style="border-radius:50%; border: 4px solid #000000;">
-</td>
-<td>
+<img src="https://avatars.githubusercontent.com/Wendesonsouza" 
+     alt="Foto de Perfil" 
+     width="180" 
+     style="border-radius:50%;">
+
 
 💻 **Desenvolvedor apaixonado por tecnologia e inovação**  
 🌱 Atualmente aprendendo **Node.js**, **React** e **DevOps**  
