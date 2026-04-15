@@ -1,20 +1,26 @@
 # 👋 Olá, eu sou Wendeson Souza
 
-<table>
-  <tr>
-    <td>
-      <img src="profile-first-repo-fe2c6ecdd20b.svg" alt="Minha Foto/Ilustração" width="200"/>
-    </td>
-    <td>
-      <p>
-        Bem-vindo ao meu perfil no GitHub!  
-        Sou apaixonado por tecnologia, programação e inovação 🚀  
-        Sempre aprendendo novas ferramentas e linguagens 📚  
-        Localizado em Sergipe, Brasil 🌍  
-      </p>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <!-- Foto grande e redonda -->
+  <img src="profile-first-repo-fe2c6ecdd20b.svg" alt="Minha Foto" width="250" style="border-radius: 50%;"/>
+
+  <h3>Bem-vindo ao meu perfil no GitHub!</h3>
+  <p>
+    🚀 Apaixonado por tecnologia e programação <br>
+    📚 Sempre aprendendo novas ferramentas <br>
+    🌍 Sergipe, Brasil
+  </p>
+
+  <!-- Botões de contato -->
+  <p>
+    <a href="https://www.linkedin.com/in/seuusuario" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    </a>
+    <a href="https://github.com/Wendesonsouza" target="_blank">
+      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    </a>
+  </p>
+</div>
 
 ---
 
@@ -29,9 +35,3 @@
 ## 📊 Estatísticas
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Wendesonsouza&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wendesonsouza&layout=compact&theme=radical)
-
----
-
-## 🔗 Conecte-se comigo
-- [LinkedIn](https://www.linkedin.com)  
-- [Portfólio](https://meusite.com)  
